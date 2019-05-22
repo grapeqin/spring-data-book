@@ -4,4 +4,5 @@
 
 ### 运行单元测试
 
-> cd mongodb &&  mvn clean test
+ 1.  本机安装mongodb服务
+ 2. > cd mongodb &&  mvn clean test
